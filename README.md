@@ -1,6 +1,6 @@
-# 🏠 House Price Prediction – End-to-End ML Deployment
+# House Price Prediction – End-to-End ML Deployment
 
-## 📌 Objective
+## Objective
 Build, deploy, and serve a house price prediction model using Flask API.
 
 ## 🛠️ Stack Used
@@ -10,14 +10,14 @@ Build, deploy, and serve a house price prediction model using Flask API.
 - AWS EC2 (cloud hosting)
 - HTML + Bootstrap (frontend UI)
 
-## 🔁 Flow
+## Flow
 1. Model training and pickle export
 2. Flask API serving prediction endpoint
 3. Dockerfile for containerisation
 4. EC2 deployment guide
 5. Sample UI integration
 
-## 🌐 API Demo
+## API Demo
 POST `/predict` with JSON:  
 ```json
 {"bedrooms": 3, "sqft": 1450, "location": "London"}
