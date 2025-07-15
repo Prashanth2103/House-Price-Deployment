@@ -3,7 +3,7 @@
 ## Objective
 Build, deploy, and serve a house price prediction model using Flask API.
 
-## 🛠️ Stack Used
+## 🛠Stack Used
 - Python, Pandas, Scikit-learn
 - Flask (API deployment)
 - Docker (containerisation)
